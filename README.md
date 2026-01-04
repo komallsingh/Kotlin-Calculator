@@ -36,8 +36,5 @@ This project highlights the separation of UI design and application logic in And
 - Results are displayed instantly
 
 
-```text
-screenshots/
-└── calculator_ui.png
 
 
